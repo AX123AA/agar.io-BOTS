@@ -1,0 +1,8 @@
+{
+  "server": {
+      "link": "https://github.com/AX123AA/agar.io-BOTS.git",
+      "update": true,
+      "version": "1.0",
+      "port": 8080
+  }
+}
