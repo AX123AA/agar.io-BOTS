@@ -1,8 +1,13 @@
 {
   "server": {
-      "link": "https://raw.githubusercontent.com/AX123AA/agar.io-BOTS/main/config.json",
-      "update": true,
-      "version": "1.0",
-      "port": 8080
-  }
+    "port": 8080,
+    "version": 1.0,
+    "update": true,
+    "link": "https://raw.githubusercontent.com/AX123AA/agar.io-BOTS/main/config.json"
+  },
+  "proxyEnabled": true,
+  "botCount": 15,
+  "botName": "BreakBot",
+  "autoSplit": true,
+  "autoFeed": false
 }
